@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: Como usar RSS para recibir nuevos articulos!
 author: Kevin Villamizar
 description: "Usando el paquete RSS para Astro podemos mantener actualizados a nuestros lectores."
